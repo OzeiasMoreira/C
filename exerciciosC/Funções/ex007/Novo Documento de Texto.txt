@@ -1,0 +1,4 @@
+Neste exemplo, o programa principal solicita ao usuário que digite um número inteiro. 
+Em seguida, o programa chama a função mostrarTabuada para calcular e mostrar a tabuada desse número.
+ A função mostrarTabuada utiliza um loop for para iterar de 1 a 10 e imprime cada multiplicação numero x i com o resultado correspondente. 
+Isso é feito usando printf com formatação adequada para mostrar cada linha da tabuada.
